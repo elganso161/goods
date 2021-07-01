@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/elganso161/goods/static/css/main.b34956ef.chunk.css",
+    "main.js": "/elganso161/goods/static/js/main.73383514.chunk.js",
+    "main.js.map": "/elganso161/goods/static/js/main.73383514.chunk.js.map",
+    "runtime-main.js": "/elganso161/goods/static/js/runtime-main.9dabeb47.js",
+    "runtime-main.js.map": "/elganso161/goods/static/js/runtime-main.9dabeb47.js.map",
+    "static/js/2.60db5d3c.chunk.js": "/elganso161/goods/static/js/2.60db5d3c.chunk.js",
+    "static/js/2.60db5d3c.chunk.js.map": "/elganso161/goods/static/js/2.60db5d3c.chunk.js.map",
+    "static/js/3.9d051d37.chunk.js": "/elganso161/goods/static/js/3.9d051d37.chunk.js",
+    "static/js/3.9d051d37.chunk.js.map": "/elganso161/goods/static/js/3.9d051d37.chunk.js.map",
+    "index.html": "/elganso161/goods/index.html",
+    "static/css/main.b34956ef.chunk.css.map": "/elganso161/goods/static/css/main.b34956ef.chunk.css.map",
+    "static/js/2.60db5d3c.chunk.js.LICENSE.txt": "/elganso161/goods/static/js/2.60db5d3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dabeb47.js",
+    "static/js/2.60db5d3c.chunk.js",
+    "static/css/main.b34956ef.chunk.css",
+    "static/js/main.73383514.chunk.js"
+  ]
+}
